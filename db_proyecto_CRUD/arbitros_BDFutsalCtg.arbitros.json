@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "655a7e51d09ef33616db1936"
+  },
+  "nombre_arbitro": "Ismael Medina",
+  "id_arbitro": 100005
+},
+{
+  "_id": {
+    "$oid": "655a7e65d09ef33616db1937"
+  },
+  "nombre_arbitro": "Anibal Velásquez",
+  "id_arbitro": 100006
+},
+{
+  "_id": {
+    "$oid": "655a7e74d09ef33616db1938"
+  },
+  "nombre_arbitro": "Esteban López",
+  "id_arbitro": 100007
+}]

@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "655a788bd09ef33616db18fe"
+  },
+  "nombre_jugador": "Mario León",
+  "Id_jugador": 100003,
+  "fecha_nacimiento": "12/12/1983",
+  "equipo": "Los Astros FC",
+  "edad": 37
+},
+{
+  "_id": {
+    "$oid": "655a788bd09ef33616db18ff"
+  },
+  "nombre_jugador": "Elmer Arrieta",
+  "Id_jugador": 100004,
+  "fecha_nacimiento": "07/07/1981",
+  "equipo": "TNT FC",
+  "edad": 39
+},
+{
+  "_id": {
+    "$oid": "655a788bd09ef33616db1900"
+  },
+  "nombre_jugador": "Juan Carlos Pino",
+  "Id_jugador": 100008,
+  "fecha_nacimiento": "09/10/1980",
+  "equipo": "Cracks FC",
+  "edad": 40
+},
+{
+  "_id": {
+    "$oid": "655a788bd09ef33616db1901"
+  },
+  "nombre_jugador": "Pablo Narvaez",
+  "Id_jugador": 100012,
+  "fecha_nacimiento": "05/05/1985",
+  "equipo": "Santos FC",
+  "edad": 38
+},
+{
+  "_id": {
+    "$oid": "655a788bd09ef33616db1902"
+  },
+  "nombre_jugador": "Noah Fassot",
+  "Id_jugador": 100010,
+  "fecha_nacimiento": "13/05/1985",
+  "equipo": "Los Supercampeones",
+  "edad": 38
+},
+{
+  "_id": {
+    "$oid": "655a788bd09ef33616db1903"
+  },
+  "nombre_jugador": "Luis Julio",
+  "Id_jugador": 100011,
+  "fecha_nacimiento": "13/03/1985",
+  "equipo": "TNT FC",
+  "edad": 38
+},
+{
+  "_id": {
+    "$oid": "655a7ba5d09ef33616db191a"
+  },
+  "nombre_jugador": "Hernán Hernández",
+  "Id_jugador": 100001,
+  "fecha_nacimiento": "04/03/1985",
+  "equipo": "Los Supercampeones",
+  "edad": "38"
+},
+{
+  "_id": {
+    "$oid": "655a7c5bd09ef33616db191b"
+  },
+  "nombre_jugador": "Julian Alvarez",
+  "Id_jugador": 100019,
+  "fecha_nacimiento": "03/03/1980",
+  "equipo": "Los nacionales",
+  "edad": "33"
+}]

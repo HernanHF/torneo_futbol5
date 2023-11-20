@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "655a9b1dd09ef33616db195e"
+  },
+  "nombre": "Futbol 5",
+  "fecha_inicio": "2023-12-12T10:00:00Z",
+  "fecha_fin": "2023-12-20T18:00:00Z",
+  "descripcion": "Torneo vacacional para mayores de 30 años",
+  "fecha_nacimiento": "08/09/1975",
+  "premio": "1.500.000 al Campeón",
+  "equipos participantes": [
+    {
+      "nombre_equipo": "Los nacionales",
+      "entrenador": "Sebastian Jaramillo",
+      "deportistas": [
+        {
+          "nombre": "Julian Alvarez"
+        },
+        {
+          "nombre": "jugador 2"
+        },
+        {
+          "nombre": "jugador 3"
+        },
+        {
+          "nombre": "jugador 4"
+        },
+        {
+          "nombre": "jugador 5"
+        },
+        {
+          "nombre": "jugador 6"
+        },
+        {
+          "nombre": "jugador 7"
+        },
+        {
+          "nombre": "jugador 8"
+        }
+      ]
+    }
+  ]
+}]

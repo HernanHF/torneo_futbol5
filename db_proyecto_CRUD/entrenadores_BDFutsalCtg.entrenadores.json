@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655a7cf3d09ef33616db192c"
+  },
+  "nombre_entredador": "Juan Carlos Estupiñan",
+  "id_entrenador": 100002,
+  "cargo": "entrenador",
+  "equipo": "Santos",
+  "fecha_nacimiento": "08/09/1975"
+},
+{
+  "_id": {
+    "$oid": "655a7d23d09ef33616db192d"
+  },
+  "nombre_entredador": "Arnold Sanchéz",
+  "id_entrenador": 100015,
+  "cargo": "entrenador",
+  "equipo": "TNT FC",
+  "fecha_nacimiento": "10/01/1973"
+},
+{
+  "_id": {
+    "$oid": "655a7d2dd09ef33616db192e"
+  },
+  "nombre_entredador": "Sebastian Jaramillo",
+  "id_entrenador": 100017,
+  "cargo": "entrenador",
+  "equipo": "Los nacionales",
+  "fecha_nacimiento": "08/09/1975"
+},
+{
+  "_id": {
+    "$oid": "655a7d57d09ef33616db192f"
+  },
+  "nombre_entredador": "Gabriel Vidal",
+  "id_entrenador": 100013,
+  "cargo": "entrenador",
+  "equipo": "Los Astros FC",
+  "fecha_nacimiento": "10/09/1970"
+},
+{
+  "_id": {
+    "$oid": "655a7d70d09ef33616db1930"
+  },
+  "nombre_entredador": "Jairo Mendiata",
+  "id_entrenador": 100016,
+  "cargo": "entrenador",
+  "equipo": "Los supercampeones",
+  "fecha_nacimiento": "10/01/1973"
+},
+{
+  "_id": {
+    "$oid": "655a7d85d09ef33616db1931"
+  },
+  "nombre_entredador": "Miguel Angel Arrieta",
+  "id_entrenador": 100014,
+  "cargo": "entrenador",
+  "equipo": "Cracks FC",
+  "fecha_nacimiento": "08/09/1980"
+}]
